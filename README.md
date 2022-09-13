@@ -5,4 +5,4 @@
 comming sooon
 
 # Programmiersprachen
-Am lernen Phyton and Java
+Am lernen 
