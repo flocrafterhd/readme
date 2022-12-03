@@ -1,8 +1,8 @@
-# Hallo, ich bin Flo
+# Willkommen, ich bin Flo
 
 
 # Mein Discord
-comming sooon
+https://dsc.gg/flo
 
 # Programmiersprachen
 Am lernen 
